@@ -1,1 +1,1 @@
-Sitemap: https://victor.codes/blog/sitemap.xml
+Sitemap: https://victor.codes/sitemap.xml
